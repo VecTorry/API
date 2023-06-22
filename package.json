@@ -1,0 +1,14 @@
+{
+  "name": "finalsexam",
+  "version": "1.0.0",
+  "description": "ITCS227LA Finals Exam (Summative)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Barrongo, Joshua Victor",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
